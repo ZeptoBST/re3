@@ -67,6 +67,12 @@ Some of them can be toggled at runtime, some cannot.
   * Controller configuration menu
   * ...
 * Can load DFFs and TXDs from other platforms, possibly with a performance penalty
+* Automatic input switching. You no longer have to toggle between Standard controls and Classic controls.
+* Autosave feature. The game automatically saves after every mission (must be on foot).
+* You can loot thieves on keyboard and mouse. A very hacky fix making it so that locking on a thief while unnarmed (or holding a melee weapon) will allow you to loot a thief. Only works with Free cam on.
+* Skip intro fmvs with controller.
+* Re-enabled money messages.
+* Enabled loading screens.
 * ...
 
 ## To-Do
