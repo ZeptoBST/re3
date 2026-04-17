@@ -73,6 +73,7 @@ Some of them can be toggled at runtime, some cannot.
 * Skip intro fmvs with controller.
 * Re-enabled money messages.
 * Enabled loading screens.
+* Fixed on-foot camera modes. Intermediate zoom now works properly.
 * ...
 
 ## To-Do
