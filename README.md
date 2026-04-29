@@ -7,6 +7,7 @@
 
 Any changes I've made have landmarks to easily find them in the code:
 
+
 #Input switch   = Anything related to the automatic switching of input.
 
 #AutoSave       = Anything related to autosave.
