@@ -3,6 +3,18 @@
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2FGTAmodding%2Fre3%2Fbadge%3Fref%3Dmaster&style=flat)](https://actions-badge.atrox.dev/GTAmodding/re3/goto?ref=master)
 <a href="https://discord.gg/RFNbjsUMGg"><img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" /></a>
 
+## Change landmarks
+
+Any changes I've made have landmarks to easily find them in the code:
+
+#Input switch   = Anything related to the automatic switching of input.
+#AutoSave       = Anything related to autosave.
+#Camera mode    = Related to the camera modes (when pressing "V" or "Select").
+#Skip intro with controller     = Allow skipping the intro fmvs with a controller.
+#Steal from thieves kbm     = Allows stealing from thieves on keyboard and mouse.
+
+
+
 ## Intro
 
 In this repository you'll find the fully reversed source code for GTA III ([master](https://github.com/GTAmodding/re3/tree/master/) branch) and GTA VC ([miami](https://github.com/GTAmodding/re3/tree/miami/) branch).
