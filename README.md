@@ -8,9 +8,13 @@
 Any changes I've made have landmarks to easily find them in the code:
 
 #Input switch   = Anything related to the automatic switching of input.
+
 #AutoSave       = Anything related to autosave.
+
 #Camera mode    = Related to the camera modes (when pressing "V" or "Select").
+
 #Skip intro with controller     = Allow skipping the intro fmvs with a controller.
+
 #Steal from thieves kbm     = Allows stealing from thieves on keyboard and mouse.
 
 
